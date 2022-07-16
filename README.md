@@ -1,11 +1,11 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
+<h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">FullStack Developer | Python Programmer | Java Programmer | Web Developer | Desktop Application Developer |</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/z/anonymous-gamer-mascot-hacker-skull-boy-design-logo-template-mascot-anonymous-gamer-mascot-hacker-skull-boy-219741074.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpandey0101&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpandey0101" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KumarRavi22&label=Profile%20views&color=0e75b6&style=flat" alt="KumarRavi22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpandey0101" alt="gauravpandey0101" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpandey0101" alt="KumarRavi22" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gauravp25565724" target="blank"><img src="https://img.shields.io/twitter/follow/gauravp25565724?logo=twitter&style=for-the-badge" alt="gauravp25565724" /></a> </p>
 
@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with [ATM](N/A)
 
-- 👨‍💻 All of my projects are available at [https://github.com/gauravpandey0101/](https://github.com/gauravpandey0101/)
+- 👨‍💻 All of my projects are available at [https://github.com/KumarRavi22/](https://github.com/gauravpandey0101/)
 
 - 💬 Ask me about *Python, Django, C, JAVA*
 
-- 📫 How to reach me *gp7240724@gmail.com*
+- 📫 How to reach me *ravi.prajapati98@gmail.com*
 
 - ⚡ Fun fact *Never Give Up*
 
