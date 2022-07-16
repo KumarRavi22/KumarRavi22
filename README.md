@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning *C, c++, JAVA, Python, MySql, Django, Html5,CSS*
 
-- 🤝 I’m looking for help with [ATM](N/A)
+- 🤝 I’m looking for help with [food _orderin_system](N/A)
 
 - 👨‍💻 All of my projects are available at [https://github.com/KumarRavi22/](https://github.com/KumarRavi22/)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me *ravi.prajapati98@gmail.com*
 
-- ⚡ Fun fact *Never Give Up*
+- ⚡ Fun fact *lets try once more*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
