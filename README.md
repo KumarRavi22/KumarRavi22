@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning *C, c++, JAVA, Python, MySql, Django, Html5,CSS*
 
-- 🤝 I’m looking for help with [food _orderin_system](N/A)
+- 🤝 I’m looking for help with [food _ordering_system](N/A)
 
 - 👨‍💻 All of my projects are available at [https://github.com/KumarRavi22/](https://github.com/KumarRavi22/)
 
